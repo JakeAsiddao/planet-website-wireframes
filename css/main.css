@@ -123,6 +123,13 @@ padding-left: 2em;
 .content-other img {
 height: 230px;  
 }
+    
+.content-other p {
+ width: 90%; 
+margin: 0 auto;
+text-align: left;
+margin-bottom: 10px;
+}
 
 .character {
  background-color: #dbdbdb; 
@@ -164,7 +171,10 @@ height: 30px;
 .header-content img {
 float: left;
 margin-bottom: 1em;
-width: 30%;
+}
+
+.content {
+    
 }
 
 header h2 {
